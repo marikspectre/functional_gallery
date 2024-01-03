@@ -1,0 +1,11 @@
+.card_text {
+    width: 100%;
+    transition: 0.5s all ease-out;
+    opacity: 0;
+    background: linear-gradient(0deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0) 100%);
+}
+
+.card:hover .card_text {
+    opacity: 1;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 1) 0%, rgba(255, 255, 255, 0) 100%);
+}

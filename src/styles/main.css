@@ -1,0 +1,17 @@
+.container {
+    width: 100%;
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.container_xl {
+    width: 100%;
+    max-width: 1300px;
+    margin: 0 auto;
+}
+
+.container_sm {
+    width: 100%;
+    max-width: 490px;
+    margin: 0 auto;
+}
