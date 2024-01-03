@@ -7,7 +7,7 @@ function App() {
   const [cards, setCards] = useState([
     {
       id: 1,
-      likes: 50,
+      likes: 51,
       views: 55,
       isLiked: false
     },
